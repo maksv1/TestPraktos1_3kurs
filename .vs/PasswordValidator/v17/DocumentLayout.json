@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\source\\repos\\PasswordValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5210E52-D848-4760-AA9B-535DED422CEF}|PasswordValidator.Test\\PasswordValidator.Test.csproj|c:\\users\\maks\\source\\repos\\passwordvalidator\\passwordvalidator.test\\passtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5210E52-D848-4760-AA9B-535DED422CEF}|PasswordValidator.Test\\PasswordValidator.Test.csproj|solutionrelative:passwordvalidator.test\\passtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188FF17E-C928-487C-B95F-034496BE39A4}|PasswordValidator\\PasswordValidator.csproj|C:\\Users\\maks\\source\\repos\\PasswordValidator\\passwordvalidator\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188FF17E-C928-487C-B95F-034496BE39A4}|PasswordValidator\\PasswordValidator.csproj|solutionrelative:passwordvalidator\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassTests.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\PasswordValidator\\PasswordValidator.Test\\PassTests.cs",
+              "RelativeDocumentMoniker": "PasswordValidator.Test\\PassTests.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\PasswordValidator\\PasswordValidator.Test\\PassTests.cs",
+              "RelativeToolTip": "PasswordValidator.Test\\PassTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:52:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pass.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\PasswordValidator\\PasswordValidator\\Pass.cs",
+              "RelativeDocumentMoniker": "PasswordValidator\\Pass.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\PasswordValidator\\PasswordValidator\\Pass.cs",
+              "RelativeToolTip": "PasswordValidator\\Pass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:48:03.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
